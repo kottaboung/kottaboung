@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Label-Color
+https://img.shields.io/badge/LinkedIn-blue
 
 **kottaboung/kottaboung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
