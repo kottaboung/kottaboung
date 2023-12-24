@@ -1,23 +1,21 @@
-### Hi there 👋
 
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-
+<center>
 <div>
   <a href="[your-twitter-URL](https://www.facebook.com/profile.php?id=100087529516721)">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
+  <a href="[your-twitter-URL](https://www.instagram.com/mainkottaboung/)">
+    <img src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
+  </a>
+  <a>
+  <img src="[https://kottaboung.com/ghpvc/?username=your-github-username](https://komarev.com/ghpvc/?username=your-github-username)&style=flat-square&color=blue" alt=""/>
+  </a>
 </div>
+</center>
 
-**kottaboung/kottaboung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
