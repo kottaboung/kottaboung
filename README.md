@@ -19,6 +19,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/tree/master/icons/apache/apache-original-wordmark.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/tree/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
  
  </div>
 
