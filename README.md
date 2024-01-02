@@ -1,8 +1,10 @@
+<strong style="font-family: 'Your Desired Font';"> Hi. I'm Main Kottaboung
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ </strong>
 
-<h1>
-  Hi. im Main Kottaboung
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  <strong style="font-family: 'Your Desired Font';">  I'm from Computer engineering at king mongkut's institute of technology ladkrabang prince of chumphon campus. I'm a third year student majoring.</strong>
+ 
+
 
 ---
 
