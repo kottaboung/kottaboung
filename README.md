@@ -1,10 +1,12 @@
 
 
 <div style="display:flex justify-center">
-<strong style="font-family: 'Your Desired Font';"> Hi. I'm Main Kottaboung
+<strong style="font-family: 'Your Desired Font';"> Hi. I'm Main Kottaboung 
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  </strong>
 </div>
+
+---
 
   <strong style="font-family: 'Your Desired Font';">  I'm Junior Font-end,Web daveloper from Computer engineering at king mongkut's institute of technology ladkrabang prince of chumphon campus. I'm a third year student majoring.</strong>&nbsp;
   <div>
