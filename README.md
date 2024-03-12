@@ -1,10 +1,14 @@
+
+
+<div style="display:flex justify-center">
 <strong style="font-family: 'Your Desired Font';"> Hi. I'm Main Kottaboung
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  </strong>
+</div>
 
-  <strong style="font-family: 'Your Desired Font';">  I'm from Computer engineering at king mongkut's institute of technology ladkrabang prince of chumphon campus. I'm a third year student majoring.</strong>
+  <strong style="font-family: 'Your Desired Font';">  I'm Junior Font-end,Web daveloper from Computer engineering at king mongkut's institute of technology ladkrabang prince of chumphon campus. I'm a third year student majoring.</strong>&nbsp;
   <div>
-   <ul>Soft Skills
+   <ul><strong>Soft Skills</strong>
     <li>
      Time managment
     </li>
@@ -15,12 +19,19 @@
      Team collaboration
     </li>
      <li>
-     Problem solvingOTHER
+     Problem solving
     </li>
    </ul>
   </div>
  
-
+<div>
+ <strong>Contact</strong>
+ <div >&nbsp;
+  <p>Facbook : https://web.facebook.com/profile.php?id=100087529516721</p>
+  <p>Email : 64200002@kmitl.ac.th</p>
+ </div>
+ 
+</div>
 
 ---
 
@@ -45,7 +56,9 @@
 
 ### :fire: My Stats :fire:
 
+<div>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kottaboung&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kottaboung&theme=great-gatsby)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kottaboung&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kottaboung&theme=great-gatsby)
+</div>
