@@ -3,6 +3,22 @@
  </strong>
 
   <strong style="font-family: 'Your Desired Font';">  I'm from Computer engineering at king mongkut's institute of technology ladkrabang prince of chumphon campus. I'm a third year student majoring.</strong>
+  <div>
+   <ul>Soft Skills
+    <li>
+     Time managment
+    </li>
+     <li>
+     Self-Learning
+    </li>
+     <li>
+     Team collaboration
+    </li>
+     <li>
+     Problem solvingOTHER
+    </li>
+   </ul>
+  </div>
  
 
 
