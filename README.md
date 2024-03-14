@@ -8,7 +8,7 @@
 
 ---
 
-  <strong style="font-family: 'Your Desired Font';">  I'm Junior Font-end,Web daveloper from Computer engineering at king mongkut's institute of technology ladkrabang prince of chumphon campus. I'm a third year student majoring.</strong>&nbsp;
+  <strong style="font-family: 'Your Desired Font';"> i want to be Web daveloper position Font-end.I'm from Computer engineering at king mongkut's institute of technology ladkrabang prince of chumphon campus. I'm a third year student majoring.</strong>&nbsp;
   <div>
    <ul><strong>Soft Skills</strong>
     <li>
