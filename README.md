@@ -2,15 +2,17 @@
 
 -----
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kottaboung (Main)
+<h1 align="center">Hi 👋 My name is Kottaboung (Main)</h1>
+
+
+
+
+<h2 align="center">Student from KMITL PCC</h2>
+
+
+
+
 <img align="right" alt="coding" width="300" src="https://qph.cf2.quoracdn.net/main-qimg-c0c2264911d8cd4a688acd0542240f95">
-
----
-
-Student from KMITL PCC
-
-
-----------------------
 
 I want to be Web daveloper position Font-end.I'm from Computer engineering at king mongkut's institute of technology ladkrabang prince of chumphon campus. I'm a third year student majoring. Right now my skills are at the beginner level. Ready to learn new things and never stop learning.
 
