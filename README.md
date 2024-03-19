@@ -17,7 +17,7 @@
 I want to be Web daveloper position Font-end.I'm from Computer engineering at king mongkut's institute of technology ladkrabang prince of chumphon campus. I'm a third year student majoring. Right now my skills are at the beginner level. Ready to learn new things and never stop learning.
 
 * 🌍  I'm based in Thailand,Chumphon
-* 🖥️  See my portfolio at [Here](http://https://portflolio-github-io.vercel.app/)
+* 🖥️  See my portfolio at [Here ](https://portflolio-github-io.vercel.app/)
 * ✉️  You can contact me at [64200002@kmitl.ac.th](mailto:64200002@kmitl.ac.th)
 * 🧠  I'm learning Javascript , VueJS , React
 * 🤝  I'm open to collaborating on Web Developer Position Front-end
