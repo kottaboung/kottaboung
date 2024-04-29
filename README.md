@@ -19,7 +19,7 @@ I want to be Web daveloper position Font-end.I'm from Computer engineering at ki
 * 🌍  I'm based in Thailand,Chumphon
 * 🖥️  See my portfolio at [Here ](https://portflolio-github-io.vercel.app/)
 * ✉️  You can contact me at [64200002@kmitl.ac.th](mailto:64200002@kmitl.ac.th)
-* 🧠  I'm learning Javascript , VueJS , React
+* 🧠  I'm learning Javascript , VueJS , Angular
 * 🤝  I'm open to collaborating on Web Developer Position Front-end
 
 ### Skills
