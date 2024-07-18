@@ -104,6 +104,10 @@ I want to be Web daveloper position Font-end.I'm from Computer engineering at ki
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kottaboung)](https://github.com/anuraghazra/github-readme-stats)
 
+<img height=200 width=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=kottaboung&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" />
+</a>
+
+
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/kottaboung/Portflolio.github.io" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kottaboung&repo=Portflolio.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
