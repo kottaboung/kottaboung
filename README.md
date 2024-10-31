@@ -1,1 +1,1 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kottaboung&langs_count=30&hide_border=true&bg_color=262626&title_color=FFFFFF&text_color=FFFFFF&card_width=1000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kottaboung&langs_count=30&hide_border=true&bg_color=151b23&title_color=FFFFFF&text_color=FFFFFF&card_width=1000)
