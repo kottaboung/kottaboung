@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <canvas id="languageChart" width="400" height="400"></canvas>
+  <script>
+    const ctx = document.getElementById('languageChart').getContext('2d');
+    const languageChart = new Chart(ctx, {
+      type: 'doughnut',
+      data: {
+        labels: ['JavaScript', 'Python', 'HTML', 'CSS', 'C#'], // Replace with your languages
+        datasets: [{
+          label: 'Language Usage',
+          data: [40, 25, 20, 10, 5], // Replace with your percentage data
+          backgroundColor: [
+            '#f1e05a', '#3572A5', '#e34c26', '#563d7c', '#178600'
+          ]
+        }]
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          legend: { position: 'top' }
+        }
+      }
+    });
+  </script>
+</body>
+</html>
